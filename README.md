@@ -1,4 +1,4 @@
-# 🎓 Olá! Eu sou [SEU NOME OU USERNAME] 👋
+# 🎓 Olá! Eu sou a SABYY 👋
 
 ### Para a Galerinha que veio através das minhas Redes💜
 
