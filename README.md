@@ -52,7 +52,7 @@ Me siga para acompanhar meus estudos, projetos e claro, as novidades sobre o **P
 
 | Rede Social | Badge e Link (Substitua por seu URL) |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)(www.linkedin.com/in/sabrina-b-marqui-7825a4347) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sabrina-b-marqui-7825a4347) |
 | **Instagram** | [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/print.lyrics?utm_source=qr&igsh=MTIyZXBoa3pzejRyYg==) |
 | **TikTok** | [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hurtto.love?is_from_webapp=1&sender_device=pc) |
 | **E-mail** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](email:sabymarquy@gmail.com) |
