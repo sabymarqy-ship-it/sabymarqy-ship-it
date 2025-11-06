@@ -25,7 +25,7 @@ Estou aqui para unir as coisas que mais amo: **Música**, **Programação** e **
 
 ### Tecnologias e Linguagens Adicionais (Meu Stack Completo) 💡
 
-*Estas são as linguagens que estudo e domino, fundamentais para desenvolvimento.*
+*Estas são as linguagens que estudo e estou aprendendo, fundamentais para desenvolvimento.*
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://dev.w3.org/html5/spec/Overview.html)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
