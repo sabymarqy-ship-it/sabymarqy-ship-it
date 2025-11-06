@@ -41,7 +41,7 @@ Estou aqui para unir as coisas que mais amo: **Música**, **Programação** e **
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sabymarqy-ship-it&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="Estatísticas do GitHub" width="400px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dracula&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Linguagens mais usadas" width="380px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Linguagens mais usadas" width="380px"/>
 </p>
 
 ---
@@ -52,10 +52,10 @@ Me siga para acompanhar meus estudos, projetos e claro, as novidades sobre o **P
 
 | Rede Social | Badge e Link (Substitua por seu URL) |
 | :--- | :--- |
-| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([SEU LINK DO LINKEDIN]) |
-| **Instagram** | [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([SEU LINK DO INSTAGRAM]) |
-| **TikTok** | [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)]([SEU LINK DO TIKTOK]) |
-| **E-mail** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[SEU E-MAIL]) |
+| **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/sabrina-b-marqui-7825a4347) |
+| **Instagram** | [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/print.lyrics?utm_source=qr&igsh=MTIyZXBoa3pzejRyYg==) |
+| **TikTok** | [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@hurtto.love?is_from_webapp=1&sender_device=pc) |
+| **E-mail** | [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](email:sabymarquy@gmail.com) |
 
 ---
 **Bons estudos e obrigado pela visita!** 💜
