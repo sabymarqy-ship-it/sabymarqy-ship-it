@@ -23,15 +23,25 @@ Estou aqui para unir as coisas que mais amo: **Música**, **Programação** e **
 
 ---
 
-### Tecnologias e Linguagens Adicionais (Meu Stack Completo) 💡
+### 🎯 Foco Principal: Análise de Dados e Web Development
 
-*Estas são as linguagens que estudo e estou aprendendo, fundamentais para desenvolvimento.*
-
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)](https://pt.wikipedia.org/wiki/SQL)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://dev.w3.org/html5/spec/Overview.html)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)](https://www.java.com/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+
+---
+
+### ⚙️ Habilidades de Engenharia e Complementares
+
+| Categoria | Linguagens/Ferramentas |
+| :--- | :--- |
+| **Engenharia de Software** | Git (Versionamento e Fluxo de Pull Request) |
+| **Algoritmos e Estruturas** | Fundamentos de Estruturas de Dados e Algoritmos |
+| **Metodologias** | Metodologias Ágeis (Scrum/Kanban) |
+| **Linguagens Adicionais** | Java, C++ |
 
 ---
 
