@@ -44,13 +44,14 @@ Estou aqui para unir as coisas que mais amo: **Música**, **Programação** e **
 | **Linguagens Adicionais** | Java, C++ |
 
 ---
-
 ### GitHub Stats 📊
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=sabymarqy-ship-it&show_icons=true&theme=dracula&hide_border=true&border_radius=10" alt="Estatísticas do GitHub" width="400px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Linguagens mais usadas" width="380px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabymarqy-ship-it&layout=compact&theme=dracula&hide_border=true&border_radius=10" alt="Linguagens mais usadas" width="380px"/>
 </p>
+
+
 
 ---
 
