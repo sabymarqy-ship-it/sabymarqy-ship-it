@@ -1,6 +1,6 @@
 # 🎓 Olá! Eu sou a SABYY 👋
 
-### Para a Galerinha que veio através das minhas Redes💜
+### Para a Galera que veio através das minhas Redes💜
 
 Estou aqui para unir as coisas que mais amo: **Música**, **Programação** e **Estudos**! Meu objetivo é compartilhar aprendizados e projetos, como o meu Player de Letras sincronizado.
 
