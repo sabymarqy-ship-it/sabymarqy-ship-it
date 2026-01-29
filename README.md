@@ -2,8 +2,7 @@
 
 ### Para a Galera que veio através das minhas Redes💜
 
-Estou aqui para unir as coisas que mais amo: **Música**, **Programação** e **Estudos**! Meu objetivo é compartilhar aprendizados e projetos, como o meu Player de Letras sincronizado.
-
+Estou aqui para unir as coisas que mais amo: **Música**, **Programação** e **Estudos**! Meu objetivo é compartilhar aprendizados e projetos.
 ---
 
 ### Eu estou estudando... 🌱 Foco e Ferramentas Principais
@@ -12,7 +11,7 @@ Estou aqui para unir as coisas que mais amo: **Música**, **Programação** e **
 
 | Foco | Tecnologia |
 | :--- | :--- |
-| **Linguagem Principal** | Python (Amo automatizar e criar utilitários!) |
+| **Linguagem Principal** | Python |
 | **Foco Atual** | Sincronização em tempo real e bibliotecas de visualização de dados. |
 | **Ferramentas** | Git, VS Code, e APIs de terceiros. |
 
