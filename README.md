@@ -1,11 +1,11 @@
-# 🎓 Olá! Eu sou a SABYY 👋
+# Olá a todoos!👋
 
 ### Para a Galera que veio através das minhas Redes💜
 
-Estou aqui para unir as coisas que mais amo: **Música**, **Programação** e **Estudos**! Meu objetivo é compartilhar aprendizados e projetos.
+Estou aqui para unir as coisas que  amo: **Música**, **Programação** e **Estudos**! Aqui vou compartilhar aprendizados e projetos.
 ---
 
-### Eu estou estudando... 🌱 Foco e Ferramentas Principais
+### Estudos X Ferramentas Principais
 
 *Python é o foco principal, mas estou sempre aprimorando as ferramentas básicas e buscando novas tecnologias.*
 
