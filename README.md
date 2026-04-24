@@ -2,7 +2,7 @@
 
 ### Para a Galera que veio através das minhas Redes💜
 
-Estou aqui para unir as coisas que  amo: **Música**, **Programação** e **Estudos**! Aqui vou compartilhar aprendizados e projetos.
+Estou aqui para unir as coisas que  amo: **Música**, **Programação** e **Estudos**!
 ---
 
 ### Estudos X Ferramentas Principais
